@@ -8,7 +8,7 @@
   <div class="min-h-screen flex justify-center items-start">
     <div class="flex-1 max-w-full mx-auto p-1">
       <div class="grid grid-cols-6 grid-rows-5 min-h-full gap-1 grid-flow-row-dense shadow-sm">
-        <div class="bg-slate-300 row-span-5 rounded-t-md">
+        <div class="bg-slate-300 row-span-5 rounded-t-md hidden md:block">
           <div class="grig grid-rows-4">
             <div class="flex justify-start border-b-2 border-gray-400 items-center bg-slate-300 rounded-md rounded-b-sm  pb-1">
               <img class="max-h-10 lg:max-h-12 mx-2" src="Group 1.svg" alt="Logo" srcset="">
