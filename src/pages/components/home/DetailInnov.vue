@@ -12,7 +12,7 @@ defineProps({
     </h1>
     <div class=" flex justify-evenly">
       <div class="p-2 flex justify-between py-10 w-11/12">
-        <img width="400" class="" src="ones.png" alt="alt" srcset="">
+        <img width="400" class="" src="/ones.png" alt="alt" srcset="">
       </div>
       <div class=" px-5 rounded-xl py-20 mr-5">
         <p class="uppercase text-4xl text-blue-700 pb-6 ">Vue d'ensemble</p>

@@ -16,7 +16,7 @@ defineProps({
         <p class="capitalize text-5xl font-thin text-white ml-10">Join the world of investiment <br>with mult-Sectors be <strong>winner</strong></p>
       </div>
       <div class="p-2">
-        <img width="200" class="rounded-t-3xl rounded-b-md ml-auto mr-20" src="ones.png" alt="alt" srcset="">
+        <img width="200" class="rounded-t-3xl rounded-b-md ml-auto mr-20" src="/ones.png" alt="alt" srcset="">
       </div>
     </div>
 </template>

@@ -36,7 +36,7 @@ let activities={
                         <li class="text-left text-neutral-700"> <span class="font-semibold font-sans text-sm"> ... </span></li>
                     </ul>
                 </div>
-                <img src="shut.png" class="col-span-3 h-96  rounded-sm mr-1" alt="" srcset="">
+                <img src="/shut.png" class="col-span-3 h-96  rounded-sm mr-1" alt="" srcset="">
             </div>
             <div class="grid grid-cols-5 gap-1 mt-10">
                 <div class="bg-blue-100 col-span-4 flex flex-col items-start">

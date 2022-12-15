@@ -33,7 +33,7 @@ defineProps({
         </div>
         
         <div class="h-96 mb-10 mx-auto w-full flex items-start justify-start p-5">
-           <img class="h-full w-2/5 mr-5" src="code.png" alt="Codeur">
+           <img class="h-full w-2/5 mr-5" src="/code.png" alt="Codeur">
            <div class="w-3/5 flex flex-col h-full  items-center">
                 <h1 class="font-bold text-4xl font-sans text-blue-500 text-center mb-5">Congrétisez votre rêve avec Innov</h1>
                 <p class="font-normal text-md font-serif mb-2">Vous pouvz devenir un concepteur-programmeur et en même temps codeur trop facilement avec les langage de programmation ci après:</p>
@@ -52,35 +52,35 @@ defineProps({
         <div class="-mt-5">
             <div class="grid grid-cols-8 gap-1 mb-20 w-4/6 ml-auto">
                 <a href="#" class="col-span-1 h-10">
-                    <img src="html.png" alt="logo Html" class="w-3/5 mx-auto h-full">
+                    <img src="/html.png" alt="logo Html" class="w-3/5 mx-auto h-full">
                     <p class="font-sans text-center text-orange-600 text-opacity-85 font-bold">HTML</p>
                 </a>
                 <a href="#" class="col-span-1 h-10">
-                    <img src="css.png" alt="logo Css" class="w-3/5 mx-auto h-full">
+                    <img src="/css.png" alt="logo Css" class="w-3/5 mx-auto h-full">
                     <p class="font-sans text-center text-blue-600 font-bold">CSS</p>
                 </a>
                 <a href="#" class="col-span-1 h-10">
-                    <img src="js.png" alt="logo JavaScript" class="w-3/5 mx-auto h-full">
+                    <img src="/js.png" alt="logo JavaScript" class="w-3/5 mx-auto h-full">
                     <p class="font-sans text-center text-yellow-500 font-bold">JavaScript</p>
                 </a>
                 <a href="#" class="col-span-1 h-10">
-                    <img src="node.png" alt="logo NodeJs" class="w-3/5 mx-auto h-full">
+                    <img src="/node.png" alt="logo NodeJs" class="w-3/5 mx-auto h-full">
                     <p class="font-sans text-center text-gray-700 font-bold">NodeJs</p>
                 </a>
                 <a href="#" class="col-span-1 h-10">
-                    <img src="mongo.jpg" alt="logo MongoDb" class="w-2/5 mx-auto h-full">
+                    <img src="/mongo.jpg" alt="logo MongoDb" class="w-2/5 mx-auto h-full">
                     <p class="font-sans text-center text-green-600 font-bold">MongoDb</p>
                 </a>
                 <a href="#" class="col-span-1 h-10">
-                    <img src="vue.png" alt="logo VueJs" class="w-3/5 mx-auto h-full">
+                    <img src="/vue.png" alt="logo VueJs" class="w-3/5 mx-auto h-full">
                     <p class="font-sans text-center text-emerald-500 text-opacity-95 font-bold">VueJs</p>
                 </a>
                 <a href="#" class="col-span-1 h-10">
-                    <img src="flutter.png" alt="logo Flutter" class="w-3/5 mx-auto h-full">
+                    <img src="/flutter.png" alt="logo Flutter" class="w-3/5 mx-auto h-full">
                     <p class="font-sans text-center text-blue-800 font-bold">Flutter</p>
                 </a>
                 <a href="#" class="col-span-1 h-10">
-                    <img src="react.png" alt="logo React" class="w-3/5 mx-auto h-full">
+                    <img src="/react.png" alt="logo React" class="w-3/5 mx-auto h-full">
                     <p class="font-sans text-center text-cyan-400 font-bold">ReactJs</p>
                 </a>
             </div>
