@@ -1,0 +1,40 @@
+.inv{
+    font-size: 15px;
+    color: rgb(20, 3, 173);
+    font-weight: 600;
+    font-family: sans-serif;
+    text-decoration: underline;
+    font-style: italic;
+    
+}
+.pt-13{
+    padding-top: 3.45rem;
+}
+
+.newFont{
+    font-family: Cochin, Georgia, Times, 'Times New Roman', serif;
+    /* font-weight:; */
+    color: rgb(45, 45, 49);
+}
+
+.w-90{
+    width: 21rem;
+}
+
+.h-100{
+    height: 38rem/* 384px */
+}
+
+.myFont{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial;
+    font-size: 16px;
+    font-weight: 700;
+    font-style: initial;
+    font-display: unset;
+}
+
+.franklin{font-family: "font-franklin"}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
