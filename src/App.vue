@@ -11,7 +11,7 @@
         <div class="bg-slate-300 col-span-1 rounded-tl-md hidden md:block ">
           <div>
             <div class="flex justify-center items-center bg-slate-300 rounded-tl-md  pb-1">
-              <img class="w-40 h-40 m-2 border-b-2 pb-1 border-gray-400" src="/public/Group1.svg" alt="Logo" srcset="">
+              <img class="w-40 h-40 m-2 border-b-2 pb-1 border-gray-400" src="/Group1.svg" alt="Logo" srcset="">
             </div>
           </div>
           salut
@@ -30,7 +30,7 @@
                 <router-link class="btn bg-blue-400 rounded-md px-5 py-1 font-medium text-center" :to="'error'"> Error </router-link>
               </div>
               <a href="#" class="p-0 ml-3">
-                <img width="40" class="rounded-full" src="/public/IMG_9514.jpg" alt="">
+                <img width="40" class="rounded-full" src="/IMG_9514.jpg" alt="">
               </a>
             </div>
           </div>
